@@ -1,5 +1,5 @@
 # 1С-Битрикс. Привязка свойств к разделу.
-# Bind property to section.
+# Bind properties to section.
 
 Скрипт для привязки свойств к определённому разделу. </br>
-Script to bind a property to a specific section.
+Script to bind a properties to a specific section.
